@@ -1,0 +1,10 @@
+vision
+[肆玖工具箱] 版本1.00.0
+cin
+输入>
+end
+helpl
+help：呼出帮助列表
+exit：退出主程序
+inm：（cinmod的缩写)再次读取模块列表
+end
